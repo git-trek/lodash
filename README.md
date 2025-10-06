@@ -27,6 +27,8 @@ Hey again. >\_>
 
 More! More! More changes for everyone :D
 
+Everyone gets a change....but change comes from within.
+
 ## Download
 
 - [Core build](https://raw.githubusercontent.com/lodash/lodash/4.17.21/dist/lodash.core.js) ([~4 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.21/dist/lodash.core.min.js))
